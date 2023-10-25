@@ -1,4 +1,4 @@
-# COMPANY 'XYZ', A US COMPANY
+# COMPANY 'XYZ', A UNITED STATES COMPANY
 ![](Shipping_image.png)
 # INTRODUCTION
 Every day, the global shipping industry faces the complex task of delivering products to diverse regions, often encountering a myriad of logistical challenges. In this report, we delve into the operations of 'XYZ' Company, a leading shipping company that prides itself on its commitment to timely and reliable deliveries. Our objective is to uncover insights from the wealth of data at our disposal, with the aim of enhancing the company's performance, optimizing costs, and ensuring customer satisfaction.
