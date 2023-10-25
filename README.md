@@ -22,11 +22,11 @@ The analysis had demonstrated a range of essential data analysis skills, such as
 -	Data Visualization
 
   ## VISUALIZATIONS
-### The yearly trend on a quaterly basis of sales made of all products made which shows a yearly increase of every 4th Quarter. 
+### The yearly trend on a quaterly basis of sales made of all products. 
 ![](Picture1.png)
 -------------------------------------------------------------------------------------------
 
-## Standard shipping seems to be the most after shipping mode by customes averagely.
+## Standard shipping seems to be the most sort after shipping mode by customers averagely.
 ![](Picture2.png)
 -----------------------------------------------------------------------------------------
 
