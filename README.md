@@ -2,7 +2,8 @@
 ![](Shipping_image.png)
 # INTRODUCTION
 Every day, the global shipping industry faces the complex task of delivering products to diverse regions, often encountering a myriad of logistical challenges. In this report, we delve into the operations of 'XYZ' Company, a leading shipping company that prides itself on its commitment to timely and reliable deliveries. Our objective is to uncover insights from the wealth of data at our disposal, with the aim of enhancing the company's performance, optimizing costs, and ensuring customer satisfaction.
-~Disclaimer~ ⚠️ : The data provided does not belong to any known company and therefore does not mean an attempt to make their performance questionable. 
+
+- Disclaimer ⚠️ : The data provided does not belong to any known company and therefore does not mean an attempt to make their performance questionable. 
 The task is to point at four (4) Key Performance Indexes (KPIs) that tends to answer six business questions and also creating Pivot Tables displaying the following:
 1.	Sales Revenue: Total revenue,total sales and total profit, over a specific period of time.
 2.	Profit Margin: Profit margin, how is our profit trending and factors influencing it.
