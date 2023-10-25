@@ -18,7 +18,13 @@ The analysis had demonstrated a range of essential data analysis skills, such as
 -	Statistical measures and conditional logic to make data-driven decisions.
 -	Excel functions
 -	Pivot Table Creation and Analysis
--	Data Visualization 
+-	Data Visualization
+
+  ## Data Sourcing:
+The comapny's data was provided in CSV format. The data-set contained information about the comapany performances. Shipping mode, customer ID, order date, delivery date, product category, product segments, quantity, sales, profits and lots more.
+## Data Transformation
+After importing the CSV data into Microsoft Excel, the dataset was cleaned to resolve by checking for diplucates. To ensure data accuracy, data validation and verification were done after that.💪
+
 
   ## VISUALIZATIONS
 ### The yearly trend on a quaterly basis of sales made of all products. 
