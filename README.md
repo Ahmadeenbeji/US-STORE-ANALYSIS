@@ -52,6 +52,10 @@ The analysis had demonstrated a range of essential data analysis skills, such as
 3.	The mean shipping duration was calculated to be 4 days, with the shortest and longest shipping durations being 1 and 7 days, respectively. This information provides insights into potential shipping delays that can occur when transporting goods. Notably, customer behavior plays a pivotal role in the order fulfillment process. It was observed that a significant number of customers favor the standard shipping mode, increasing the likelihood of goods being delivered within the average timeframe, with the majority arriving between 5 and 7 days. Factors like delivery cost may explain the prevalence of this delivery choice. While the order fulfillment process is efficient, it's important to recognize that achieving even higher efficiency may entail additional costs.
 4.	The Western region recorded the highest sales, accounting for 31.58% of total sales. This prompts questions about why the region with the most substantial discounts ended up with the lowest profit. The company faces a decision point: should it consider offering the region with the highest sales and profits even greater discounts to further boost customer loyalty and patronage?
 5.	Finally New-York City in the western region contributes to higher sales and hence higher profits. Also the standard shipping mode has the highest quantity of products which purchases are made for. The company should ensure it gives a closer look to western region with specific to 'New-York city' and also the shipping duration on standard shipping mode should be improved as higher quantity is transported through this medium.
+------------------------------------------------------------------------------
+
+
 Finally, it is said, customers comfort is of utmost priority to every company without also compromisng making improvement in sales, profits and growth. 
 
+![](Delivered.png)
 
