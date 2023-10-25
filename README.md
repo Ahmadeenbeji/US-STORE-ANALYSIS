@@ -1,6 +1,6 @@
 # US-STORE-ANALYSIS
+![](Shipping_image.png)
 # INTRODUCTION
-![]()
 Every day, the global shipping industry faces the complex task of delivering products to diverse regions, often encountering a myriad of logistical challenges. In this report, we delve into the operations of XYZ Company, a leading shipping company that prides itself on its commitment to timely and reliable deliveries. Our objective is to uncover insights from the wealth of data at our disposal, with the aim of enhancing the company's performance, optimizing costs, and ensuring customer satisfaction.
 The task is to point at four (4) Key Performance Index (KPI’s) that tends to answer six business questions and also creating Pivot Tables displaying the following:
 Every day, the global shipping industry faces the complex task of delivering products to diverse regions, often encountering a myriad of logistical challenges. In this report, we delve into the operations of XYZ Company, a leading shipping company that prides itself on its commitment to timely and reliable deliveries. Our objective is to uncover insights from the wealth of data at our disposal, with the aim of enhancing the company's performance, optimizing costs, and ensuring customer satisfaction.
@@ -22,3 +22,11 @@ The analysis had demonstrated a range of essential data analysis skills, such as
 •	Data Visualization
 
 
+
+
+
+
+**Discounts**          |        **Sales by Region**                    |                      **Profit by Region**
+:----------------------:|:----------------------------------------:|:------------------------------------
+![](Picture3.png)    | ![](Picture4.png)                     |![](Picture5.png)
+---------------------------------------------------------------------------------------------------------
