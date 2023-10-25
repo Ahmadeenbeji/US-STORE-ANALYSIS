@@ -1,9 +1,9 @@
 # US-STORE-ANALYSIS
 ![](Shipping_image.png)
 # INTRODUCTION
-Every day, the global shipping industry faces the complex task of delivering products to diverse regions, often encountering a myriad of logistical challenges. In this report, we delve into the operations of XYZ Company, a leading shipping company that prides itself on its commitment to timely and reliable deliveries. Our objective is to uncover insights from the wealth of data at our disposal, with the aim of enhancing the company's performance, optimizing costs, and ensuring customer satisfaction.
+Every day, the global shipping industry faces the complex task of delivering products to diverse regions, often encountering a myriad of logistical challenges. In this report, we delve into the operations of 'XYZ' Company, a leading shipping company that prides itself on its commitment to timely and reliable deliveries. Our objective is to uncover insights from the wealth of data at our disposal, with the aim of enhancing the company's performance, optimizing costs, and ensuring customer satisfaction.
 The task is to point at four (4) Key Performance Index (KPI’s) that tends to answer six business questions and also creating Pivot Tables displaying the following:
-Every day, the global shipping industry faces the complex task of delivering products to diverse regions, often encountering a myriad of logistical challenges. In this report, we delve into the operations of XYZ Company, a leading shipping company that prides itself on its commitment to timely and reliable deliveries. Our objective is to uncover insights from the wealth of data at our disposal, with the aim of enhancing the company's performance, optimizing costs, and ensuring customer satisfaction.
+Every day, the global shipping industry faces the complex task of delivering products to diverse regions, often encountering a myriad of logistical challenges. In this report, we delve into the operations of 'XYZ' Company, a leading shipping company that prides itself on its commitment to timely and reliable deliveries. Our objective is to uncover insights from the wealth of data at our disposal, with the aim of enhancing the company's performance, optimizing costs, and ensuring customer satisfaction.
 The task is to point at four (4) Key Performance Indexes (KPIs) that tends to answer six business questions and also creating Pivot Tables displaying the following:
 1.	Sales Revenue: Total revenue over a specific period of time, total profit, and number of data sets.
 2.	Profit Margin: Profit margin, how is our profit trending and factors influencing it.
@@ -14,19 +14,36 @@ The task is to point at four (4) Key Performance Indexes (KPIs) that tends to an
 The primary goals of this analysis are twofold: first, to scrutinize the company's key performance indicators and second, to address various business inquiries associated with these metrics. Through this analysis, we aim to unearth vital insights concerning the company's strengths and areas of improvement, with a particular focus on total sales revenue, profit margins, order fulfillment timeframes, regions, and product categories that significantly influence market dynamics. These revelations will provide the company with invaluable data, enabling them to enhance their weak points while maintaining strong customer relationships.
 ## Skills and Concept
 The analysis had demonstrated a range of essential data analysis skills, such as:
-•	Data extraction
-•	Data Cleaning and Transformation
-•	Statistical measures and conditional logic to make data-driven decisions.
-•	Excel functions
-•	Pivot Table Creation and Analysis
-•	Data Visualization
+- Data extraction
+-	Data Cleaning and Transformation
+-	Statistical measures and conditional logic to make data-driven decisions.
+-	Excel functions
+-	Pivot Table Creation and Analysis
+-	Data Visualization
+
+  ## VISUALIZATIONS
+### The yearly trend on a quaterly basis of sales made of all products made which shows a yearly increase of every 4th Quarter. 
+![](Picture1.png)
+-------------------------------------------------------------------------------------------
+
+## Standard shipping seems to be the most after shipping mode by customes averagely.
+![](Picture2.png)
+-----------------------------------------------------------------------------------------
 
 
-
-
-
+----------------------------------------------------------------------------------------------------
+## The discounts, sales and profit by region
 
 **Discounts**          |        **Sales by Region**                    |                      **Profit by Region**
 :----------------------:|:----------------------------------------:|:------------------------------------
 ![](Picture3.png)    | ![](Picture4.png)                     |![](Picture5.png)
 ---------------------------------------------------------------------------------------------------------
+
+----------------------------------------------------------------------------------
+## Shipping mode by quantity and the city that made the highest sales
+**Shipping Mode by Quantity**          |        **Sales by City**                                   
+:----------------------:|:----------------------------------------
+![](Picture6.png)    | ![](Picture7.png)                     
+---------------------------------------------------------------------------------------------------------
+
+
