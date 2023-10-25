@@ -46,4 +46,5 @@ The analysis had demonstrated a range of essential data analysis skills, such as
 ![](Picture6.png)    | ![](Picture7.png)                     
 ---------------------------------------------------------------------------------------------------------
 
+# CONCLUSION AND RECOMMENDATION
 
