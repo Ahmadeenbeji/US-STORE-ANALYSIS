@@ -7,7 +7,7 @@ Every day, the global shipping industry faces the complex task of delivering pro
 The task is to point at four (4) Key Performance Indexes (KPIs) that tends to answer six business questions and also creating Pivot Tables displaying the following:
 1.	Sales Revenue: Total revenue,total sales and total profit, over a specific period of time.
 2.	Profit Margin: Profit margin, how is our profit trending and factors influencing it.
-3.	Order Fulfillment Time: Average time from order placement to shipment, checking efficiency of the fulfillment process and also delays. Minimum and maximum number of shipping duration, average shipping duration and customers preferred shipping mode.
+3.	Order Fulfillment Time 🚢: Average time from order placement to shipment, checking efficiency of the fulfillment process and also delays. Minimum and maximum number of shipping duration, average shipping duration and customers preferred shipping mode ✈️.
 4.	Sales by Region: Sales revenue by geographical region, regions with the strongest market and performance and factors contributing to the differences by region.
 5.	Visualize the insights gotten from the Pivot Table
 ## PROBLEM STATEMENT
@@ -19,7 +19,7 @@ The analysis had demonstrated a range of essential data analysis skills, such as
 -	Statistical measures and conditional logic to make data-driven decisions.
 -	Excel functions
 -	Pivot Table Creation and Analysis
--	Data Visualization
+-	Data Visualization 
 
   ## VISUALIZATIONS
 ### The yearly trend on a quaterly basis of sales made of all products. 
@@ -55,7 +55,8 @@ The analysis had demonstrated a range of essential data analysis skills, such as
 ------------------------------------------------------------------------------
 
 
-Finally, it is said, customers comfort is of utmost priority to every company without also compromisng making improvement in sales, profits and growth. 
+Finally, it is said, customers comfort 😄 is of utmost priority to every company without also compromisng making improvement in sales, profits and growth ☹️. 
 
 ![](Delivered.png)
+# THANK YOU FOR YOUR PATRONAGE! 🥇
 
